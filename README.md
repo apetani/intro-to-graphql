@@ -1,5 +1,4 @@
 # Intro to GraphQL
-> Scott Moss & Frontend Masters
 
 ## Resources
 * [Slides](https://slides.com/scotups/intro-to-graphql)
